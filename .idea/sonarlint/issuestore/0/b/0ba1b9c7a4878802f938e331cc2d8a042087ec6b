@@ -1,0 +1,13 @@
+
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‰ÒÉ¢øÿÿÿÿ8ë—˜¼¾1
+L	java:S106"+Replace this use of System.out by a logger.(‰ÒÉ¢øÿÿÿÿ8í—˜¼¾1
+s
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(¹ôó‰øÿÿÿÿ8ö—˜¼¾1
+L	java:S106)"+Replace this use of System.out by a logger.(¹ôó‰øÿÿÿÿ8ö—˜¼¾1
+t
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(âàÿýúÿÿÿÿ8ø—˜¼¾1
+;
+java:S21193"Save and re-use this "Random".(–áÍÈ8þ—˜¼¾1
+;
+java:S2119M"Save and re-use this "Random".(–áÍÈ8„˜˜¼¾1
